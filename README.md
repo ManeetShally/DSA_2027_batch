@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
@@ -14,4 +15,9 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
