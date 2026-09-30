@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0047-permutations-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
