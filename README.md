@@ -27,6 +27,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0206-reverse-linked-list) |
@@ -49,9 +50,19 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
