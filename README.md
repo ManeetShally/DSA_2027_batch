@@ -91,12 +91,14 @@
 | [0101-symmetric-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -109,14 +111,17 @@
 | [0101-symmetric-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
