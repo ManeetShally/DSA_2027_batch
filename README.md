@@ -92,6 +92,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0101-symmetric-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0404-sum-of-left-leaves) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -127,4 +130,5 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0404-sum-of-left-leaves](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
