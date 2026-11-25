@@ -71,6 +71,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0023-merge-k-sorted-lists) |
 | [0743-network-delay-time](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0404-sum-of-left-leaves) |
 | [0743-network-delay-time](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0210-course-schedule-ii](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0210-course-schedule-ii) |
 | [0404-sum-of-left-leaves](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0404-sum-of-left-leaves) |
 | [0743-network-delay-time](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
 |  |
 | ------- |
@@ -151,6 +154,7 @@
 | [0207-course-schedule](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Union-Find
 |  |
 | ------- |
@@ -172,8 +176,13 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0743-network-delay-time) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ManeetShally/DSA_2027_batch/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
